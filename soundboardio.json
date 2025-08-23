@@ -1,0 +1,190 @@
+{
+  "name": "Hrníčky: Pletení je moje vášeň",
+  "shortName": "Pletení je moje vášeň",
+  "description": "Néé, prasklej hrníček",
+  "story": [
+    "Luboš Bailador, samozvaný letákový král, si objednal dva hrníčky s motivem pletení a chystal na ně unboxing video.",
+    "Panebože, ten má ale smůlu. První hrníček byl prasklej… a ten druhej taky! No, to snad není pravda!"
+  ],
+  "color": "#00796B",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Sám Život",
+    "url": "https://www.lubosbailador.com/o-mne/"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "purpose": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Došel balík",
+      "filename": "01-dosel-balik.mp3"
+    },
+    {
+      "name": "Hrníčky s pletením",
+      "filename": "02-hrnicky-s-pletenim.mp3"
+    },
+    {
+      "name": "Doufám, že to bude dobré",
+      "filename": "03-doufam-ze-to-bude-dobre.mp3"
+    },
+    {
+      "name": "Zabalený je to dobře",
+      "filename": "04-zabaleny-je-to-dobre.mp3"
+    },
+    {
+      "name": "Jů, ty jsou velký",
+      "filename": "05-ju-ty-sou-velky.mp3"
+    },
+    {
+      "name": "Jůůů",
+      "filename": "06-ju.mp3"
+    },
+    {
+      "name": "Néé, prasklej hrníček!",
+      "filename": "07-ne-prasklej-hrnicek.mp3"
+    },
+    {
+      "name": "Už to slyším jak to to",
+      "filename": "08-to-uz-slysim-jak-to-to.mp3"
+    },
+    {
+      "name": "Zabalený to je, ale stejně",
+      "filename": "09-zabaleny-to-je-ale-stejne.mp3"
+    },
+    {
+      "name": "Néé",
+      "filename": "10-neee.mp3"
+    },
+    {
+      "name": "Panebože, já mám smůlu",
+      "filename": "11-paneboze-ja-ma-smulu.mp3"
+    },
+    {
+      "name": "Ten druhej je aspoň v pořádku?",
+      "filename": "12-ten-druhej-je-aspon-v-poradku.mp3"
+    },
+    {
+      "name": "Taky ne!",
+      "filename": "13-taky-ne.mp3"
+    },
+    {
+      "name": "Ty vole, to cejtim jak to rachotí",
+      "filename": "14-ty-vole-to-cejtim-jak-to-rachoti.mp3"
+    },
+    {
+      "name": "Úplně se to rozpadlo",
+      "filename": "15-uplne-se-to-rozpadlo.mp3"
+    },
+    {
+      "name": "No ty kráso",
+      "filename": "16-no-ty-kraso.mp3"
+    },
+    {
+      "name": "Pletení je moje vášeň",
+      "filename": "17-pleteni-je-moje-vasen.mp3"
+    },
+    {
+      "name": "No, to snad neni pravda",
+      "filename": "18-no-to-snad-neni-pravda.mp3"
+    },
+    {
+      "name": "Přes 500 v čoudu",
+      "filename": "19-pres-500-v-coudu.mp3"
+    },
+    {
+      "name": "No, to ne teda!",
+      "filename": "20-no-to-ne-teda.mp3"
+    },
+    {
+      "name": "To teda budu reklamovat",
+      "filename": "21-to-teda-budu-reklamovat.mp3"
+    },
+    {
+      "name": "No, Kristovy rány!",
+      "filename": "22-no-kristovy-rany.mp3"
+    },
+    {
+      "name": "Takový to mohlo bejt hezký",
+      "filename": "23-takovy-to-mohlo-bejt-hezky.mp3"
+    },
+    {
+      "name": "Jsem pletař",
+      "filename": "24-jsempletar2.mp3"
+    },
+    {
+      "name": "Pletená je moje vášeň 2",
+      "filename": "25-pleteni-je-moje-vasen2.mp3"
+    },
+    {
+      "name": "No to je strašný",
+      "filename": "26-no-to-je-strasny.mp3"
+    },
+    {
+      "name": "Dvanáct dní to trvá",
+      "filename": "27-dvanact-dni-to-trva.mp3"
+    },
+    {
+      "name": "To jsem nasranej, teda",
+      "filename": "28-to-jsem-nasranej-teda.mp3"
+    },
+    {
+      "name": "No to snad není pravda",
+      "filename": "29-no-to-snad-neni-pravda.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Hrníčky – video Luboše Bailadora",
+      "source": "YouTube",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=0MrRMa2MHx8"
+    },
+    {
+      "name": "TikTok Luboše Bailadora",
+      "source": "TikTok",
+      "url": "https://www.tiktok.com/@lubosbailadortreti"
+    },
+    {
+      "name": "Instagram Luboše Bailadora",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/bailador1/"
+    },
+    {
+      "name": "Luboš Bailador v otevřené zpovědi",
+      "source": "YouTube",
+      "year": 2024,
+      "url": "https://www.youtube.com/watch?v=qho7OciCZH0"
+    }
+  ],
+  "lyrics": [
+    "Je 5. října 2020 a konečně mi došel balík po dvanácti dnech, co jsem si objednal. Hrníčky s pletením.",
+    "Doufám, že to bude dobře. Jo. Zabalené je to dobře. Jůů, ty jsou velký. Jůůů.",
+    "Ne, prasklý hrníček. Ne, prasklý ucho, to uslyším jak to to…",
+    "Zabalený to je, ale stejně… Ne, pane bože já mám smůlu.",
+    "Ne, ten druhej je aspoň v pořádku? Taky ne! To cítím jak to rachotí. Ty vole, úplně se to rozpadlo. Ty kráso.",
+    "Pletení je moje vášeň. No to snad není pravda. Přes 500 v čoudu. No, to ne, teda. To ne teda. To teda budu reklamovat teda tohle.",
+    "Pro kristovy rány! Takový to mohlo bejt hezký.",
+    "\"Jsem pletařkoholik na odvykačce, dělám si srandou, podejte mi jehlice.\"",
+    "No ale tohle, to je úplně… Pletení je moje vášeň.",
+    "No to je strašný. Tak dvanáct dní to trvá, než to…, než to dovezou, a ještě to dovezou, to… rozbitý?",
+    "No to se nasranej teda. No to snad není pravda."
+  ]
+}
