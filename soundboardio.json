@@ -42,7 +42,7 @@
       "filename": "02-hrnicky-s-pletenim.mp3"
     },
     {
-      "name": "Doufám, že to bude dobré",
+      "name": "Doufám, že to bude dobře",
       "filename": "03-doufam-ze-to-bude-dobre.mp3"
     },
     {
@@ -126,11 +126,11 @@
       "filename": "23-takovy-to-mohlo-bejt-hezky.mp3"
     },
     {
-      "name": "Jsem pletař",
+      "name": "Jsem pletařkoholik…",
       "filename": "24-jsempletar2.mp3"
     },
     {
-      "name": "Pletená je moje vášeň 2",
+      "name": "Pletení je moje vášeň II",
       "filename": "25-pleteni-je-moje-vasen2.mp3"
     },
     {
@@ -146,16 +146,17 @@
       "filename": "28-to-jsem-nasranej-teda.mp3"
     },
     {
-      "name": "No to snad není pravda",
+      "name": "No, to snad není pravda",
       "filename": "29-no-to-snad-neni-pravda.mp3"
     }
   ],
   "references": [
     {
-      "name": "Hrníčky – video Luboše Bailadora",
+      "name": "Originální video",
+      "note": "Záloha",
       "source": "YouTube",
       "year": 2020,
-      "url": "https://www.youtube.com/watch?v=0MrRMa2MHx8"
+      "url": "https://www.youtube.com/watch?v=_xtnci6Ilrk"
     },
     {
       "name": "TikTok Luboše Bailadora",
