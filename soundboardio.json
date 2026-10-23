@@ -44,119 +44,148 @@
   "tiles": [
     {
       "name": "Došel balík",
-      "filename": "01-dosel-balik.mp3"
+      "filename": "01-dosel-balik.mp3",
+      "transcript": "Je 5. října 2020 a konečně mi došel balík po dvanácti dnech, co jsem si objednal"
     },
     {
       "name": "Hrníčky s pletením",
-      "filename": "02-hrnicky-s-pletenim.mp3"
+      "filename": "02-hrnicky-s-pletenim.mp3",
+      "transcript": "Hrníčky s pletením"
     },
     {
       "name": "Doufám, že to bude dobře",
-      "filename": "03-doufam-ze-to-bude-dobre.mp3"
+      "filename": "03-doufam-ze-to-bude-dobre.mp3",
+      "transcript": "Doufám, že to bude dobře."
     },
     {
       "name": "Zabalený je to dobře",
-      "filename": "04-zabaleny-je-to-dobre.mp3"
+      "filename": "04-zabaleny-je-to-dobre.mp3",
+      "transcript": "Zabalený je to dobře"
     },
     {
       "name": "Jů, ty jsou velký",
-      "filename": "05-ju-ty-sou-velky.mp3"
+      "filename": "05-ju-ty-sou-velky.mp3",
+      "transcript": "Jůů, ty jsou velký"
     },
     {
       "name": "Jůůů",
-      "filename": "06-ju.mp3"
+      "filename": "06-ju.mp3",
+      "transcript": "Jůůů"
     },
     {
       "name": "Néé, prasklej hrníček!",
-      "filename": "07-ne-prasklej-hrnicek.mp3"
+      "filename": "07-ne-prasklej-hrnicek.mp3",
+      "transcript": "Néé, prasklej hrníček!"
     },
     {
       "name": "Už to slyším jak to to",
-      "filename": "08-to-uz-slysim-jak-to-to.mp3"
+      "filename": "08-to-uz-slysim-jak-to-to.mp3",
+      "transcript": "Ne, prasklý ucho, to už slyším, jak to to…"
     },
     {
       "name": "Zabalený to je, ale stejně",
-      "filename": "09-zabaleny-to-je-ale-stejne.mp3"
+      "filename": "09-zabaleny-to-je-ale-stejne.mp3",
+      "transcript": "Zabalený to je, ale stejně…"
     },
     {
       "name": "Néé",
-      "filename": "10-neee.mp3"
+      "filename": "10-neee.mp3",
+      "transcript": "Nééé"
     },
     {
       "name": "Panebože, já mám smůlu",
-      "filename": "11-paneboze-ja-ma-smulu.mp3"
+      "filename": "11-paneboze-ja-ma-smulu.mp3",
+      "transcript": "Panebože, já mám smůlu"
     },
     {
       "name": "Ten druhej je aspoň v pořádku?",
-      "filename": "12-ten-druhej-je-aspon-v-poradku.mp3"
+      "filename": "12-ten-druhej-je-aspon-v-poradku.mp3",
+      "transcript": "Ne, ten druhej je aspoň v pořádku?"
     },
     {
       "name": "Taky ne!",
-      "filename": "13-taky-ne.mp3"
+      "filename": "13-taky-ne.mp3",
+      "transcript": "Taky ne!"
     },
     {
       "name": "Ty vole, to cejtim jak to rachotí",
-      "filename": "14-ty-vole-to-cejtim-jak-to-rachoti.mp3"
+      "filename": "14-ty-vole-to-cejtim-jak-to-rachoti.mp3",
+      "transcript": "Ty vole, to cejtim jak to rachotí"
     },
     {
       "name": "Úplně se to rozpadlo",
-      "filename": "15-uplne-se-to-rozpadlo.mp3"
+      "filename": "15-uplne-se-to-rozpadlo.mp3",
+      "transcript": "Ty vole, úplně se to rozpadlo"
     },
     {
       "name": "No ty kráso",
-      "filename": "16-no-ty-kraso.mp3"
+      "filename": "16-no-ty-kraso.mp3",
+      "transcript": "No, ty kráso"
     },
     {
       "name": "Pletení je moje vášeň",
-      "filename": "17-pleteni-je-moje-vasen.mp3"
+      "filename": "17-pleteni-je-moje-vasen.mp3",
+      "transcript": "Pletení je moje vášeň."
     },
     {
       "name": "No, to snad neni pravda",
-      "filename": "18-no-to-snad-neni-pravda.mp3"
+      "filename": "18-no-to-snad-neni-pravda.mp3",
+      "transcript": "No to snad není pravda!"
     },
     {
       "name": "Přes 500 v čoudu",
-      "filename": "19-pres-500-v-coudu.mp3"
+      "filename": "19-pres-500-v-coudu.mp3",
+      "transcript": "Přes 500 v čoudu"
     },
     {
       "name": "No, to ne teda!",
-      "filename": "20-no-to-ne-teda.mp3"
+      "filename": "20-no-to-ne-teda.mp3",
+      "transcript": "No, to ne, teda. To ne teda"
     },
     {
       "name": "To teda budu reklamovat",
-      "filename": "21-to-teda-budu-reklamovat.mp3"
+      "filename": "21-to-teda-budu-reklamovat.mp3",
+      "transcript": "To teda budu reklamovat teda todle"
     },
     {
       "name": "No, Kristovy rány!",
-      "filename": "22-no-kristovy-rany.mp3"
+      "filename": "22-no-kristovy-rany.mp3",
+      "transcript": "Pro Kristovy rány!"
     },
     {
       "name": "Takový to mohlo bejt hezký",
-      "filename": "23-takovy-to-mohlo-bejt-hezky.mp3"
+      "filename": "23-takovy-to-mohlo-bejt-hezky.mp3",
+      "transcript": "Takový to mohlo bejt hezký"
     },
     {
       "name": "Jsem pletařkoholik…",
-      "filename": "24-jsempletar2.mp3"
+      "filename": "24-jsempletar2.mp3",
+      "transcript": "Jsem pletařkoholik na odvykačce, dělám si srandu, podejte mi jehlice. No ale tohle, to je úplně…"
     },
     {
       "name": "Pletení je moje vášeň II",
-      "filename": "25-pleteni-je-moje-vasen2.mp3"
+      "filename": "25-pleteni-je-moje-vasen2.mp3",
+      "transcript": "Pletení je moje vášeň…"
     },
     {
       "name": "No to je strašný",
-      "filename": "26-no-to-je-strasny.mp3"
+      "filename": "26-no-to-je-strasny.mp3",
+      "transcript": "No to je strašný"
     },
     {
       "name": "Dvanáct dní to trvá",
-      "filename": "27-dvanact-dni-to-trva.mp3"
+      "filename": "27-dvanact-dni-to-trva.mp3",
+      "transcript": "Tak dvanáct dní to trvá, než to…, než to dovezou, a ještě to dovezou, to… rozbitý?"
     },
     {
       "name": "To jsem nasranej, teda",
-      "filename": "28-to-jsem-nasranej-teda.mp3"
+      "filename": "28-to-jsem-nasranej-teda.mp3",
+      "transcript": "No to jsem nasranej, teda"
     },
     {
       "name": "No, to snad není pravda",
-      "filename": "29-no-to-snad-neni-pravda.mp3"
+      "filename": "29-no-to-snad-neni-pravda.mp3",
+      "transcript": "No to snad není pravda."      
     }
   ],
   "references": [
@@ -186,15 +215,20 @@
   ],
   "lyrics": [
     "Je 5. října 2020 a konečně mi došel balík po dvanácti dnech, co jsem si objednal. Hrníčky s pletením.",
-    "Doufám, že to bude dobře. Jo. Zabalený je to dobře. Jůů, ty jsou velký. Jůůů.",
+    "Doufám, že to bude dobře. Jo. Zabalený je to dobře.",
+    "Jůů, ty jsou velký. Jůůů.",
     "Néé, prasklej hrníček! Ne, prasklý ucho, to už slyším, jak to to…",
-    "Zabalený to je, ale stejně… Ne, panebože, já mám smůlu.",
-    "Ne, ten druhej je aspoň v pořádku? Taky ne! To cítím jak to rachotí. Ty vole, úplně se to rozpadlo. Ty kráso.",
-    "Pletení je moje vášeň. No to snad není pravda. Přes 500 v čoudu. No, to ne, teda. To ne teda. To teda budu reklamovat teda tohle.",
+    "Zabalený to je, ale stejně…", 
+    "Nééé! Panebože, já mám smůlu.",
+    "Ne, ten druhej je aspoň v pořádku? Taky ne! Ty vole, to cejtim jak to rachotí. Ty vole, úplně se to rozpadlo. No, ty kráso.",
+    "Pletení je moje vášeň.",
+    "No to snad není pravda! Přes 500 v čoudu.",
+    "No, to ne, teda. To ne teda. To teda budu reklamovat teda todle.",
     "Pro Kristovy rány! Takový to mohlo bejt hezký.",
-    "„Jsem pletařkoholik na odvykačce, dělám si srandu, podejte mi jehlice.“",
-    "No ale tohle, to je úplně… Pletení je moje vášeň.",
-    "No to je strašný. Tak dvanáct dní to trvá, než to…, než to dovezou, a ještě to dovezou, to… rozbitý?",
+    "Jsem pletařkoholik na odvykačce, dělám si srandu, podejte mi jehlice. No ale tohle, to je úplně…",
+    "Pletení je moje vášeň…",
+    "No to je strašný.",
+    "Tak dvanáct dní to trvá, než to…, než to dovezou, a ještě to dovezou, to… rozbitý?",
     "No to jsem nasranej, teda. No to snad není pravda."
   ]
 }
