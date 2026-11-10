@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://soundboardio.com/app/pleteni-je-moje-vasen/?utm_source=github&utm_medium=readme&utm_campaign=pleteni-je-moje-vasen">
-    <img src="icons/og-v2.jpg" width="640" alt="Hrníčky: Pletení je moje vášeň">
+    <img src="icons/og-v2.jpg" width="640" alt="Prasklej hrníček: Pletení je moje vášeň">
   </a>
 </p>
 
-# Hrníčky: Pletení je moje vášeň
+# Prasklej hrníček: Pletení je moje vášeň
 
 > Plugin for [SoundBoardio.com](https://soundboardio.com), a free GitHub-powered soundboard app.
 
@@ -12,7 +12,7 @@
 
 **▶ [Open the soundboard](https://soundboardio.com/app/pleteni-je-moje-vasen/?utm_source=github&utm_medium=readme&utm_campaign=pleteni-je-moje-vasen)**
 
-> Luboš Bailador, samozvaný letákový král, si objednal dva hrníčky s pletením a chystal na ně vytvořit unboxing video.
+> Luboš Bailador natáčel unboxing hrníčků s pletením a oba přišly rozbité.
 
 Board by [Sám Život](https://www.lubosbailador.com/o-mne/).
 
